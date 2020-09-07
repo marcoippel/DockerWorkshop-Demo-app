@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "DockerWorkshop Demo app": {
+      "commandName": "Project",
+      "commandLineArgs": "tester"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
